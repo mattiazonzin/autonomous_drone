@@ -1,0 +1,17 @@
+# File di sistema macOS
+.DS_Store
+.AppleDouble
+
+# Cache di Python
+__pycache__/
+*.pyc
+*.pyo
+
+# File di build e log di ROS 2
+build/
+install/
+log/
+
+# File di backup degli editor
+*~
+*.swp
